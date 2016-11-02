@@ -1,0 +1,61 @@
+/* --- Components Design --- */ 
+@import url("components/navbar.css");
+@import url("components/wrapper.css");
+@import url("components/footer.css");
+@import url("components/part.css");
+
+
+
+
+/* GENERAL */ 
+
+body {
+	background-image: url("../images/fond.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	max-height: 800px;
+	font-family: "Open Sans", sans-serif;
+	color: white;
+}
+
+.spacer {
+	height: 250px;
+}
+
+.spacer1 {
+	height: 160px;
+}
+
+.spacer2 {
+	height: 80px;
+}
+
+h1, h2, h3 {
+	font-family: "Quicksand", sans-serif;
+	color: white;
+}
+
+
+.fleche {
+	color: red;
+	font-size: 60px;
+	opacity: 0.7;
+}
+
+.fleche:hover {
+	opacity: 1;
+}
+
+
+#encre1 {
+	height: 69px;
+}
+
+#encre2 {
+	height: 69px;
+}
+
+#encre3 {
+	height: 69px;
+}
+

@@ -1,0 +1,34 @@
+.part {
+	background-color: white;
+	color: black;
+	text-align: center;
+	padding: 3em 20px 8em 20px;
+	border-radius: 15px;
+	opacity: 1;
+}
+
+.part h2 {
+	color: black;
+	font-size: 35px;
+	padding-top: 1em;
+	margin-bottom: 1em;	
+}
+
+.part h3 {
+	color: black;
+}
+
+.part p {
+	font-weight: 300;
+}
+
+.part:hover {
+	opacity: 1;
+}
+
+.photos {
+	width: 300px;
+	border-radius: 50%;
+	box-shadow: 2px 2px 2px #645B62;
+	border: 1px solid #CCCCCE;
+}

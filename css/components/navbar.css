@@ -1,0 +1,60 @@
+.navbar-default {
+	background-color: transparent;
+	height: 70px;
+	border: none;
+}
+
+
+/* LOGO LEFT*/ 
+
+#logo {
+	width: 40px;
+	position: absolute;
+	left: 80px;
+	top: 15px;
+	opacity: 1;
+}
+
+
+
+
+/* MENU RIGHT*/
+
+.btn-default {
+	background-color: transparent;
+	opacity: 1;
+	border: none;
+}
+.btn-default:hover {
+	background-color: transparent;
+	opacity: 1;
+}
+.btn-group.open .dropdown-toggle {
+	background-color: transparent;
+}
+
+.btn-group>.btn:hover, .btn-group-vertical>.btn:hover, .btn-group>.btn:focus, .btn-group-vertical>.btn:focus, .btn-group>.btn:active, .btn-group-vertical>.btn:active, .btn-group>.btn.active, .btn-group-vertical>.btn.active {
+		background-color: transparent;
+}
+
+#menubar {
+	position: absolute;
+	right: 70px;
+	top: 15px;
+}
+
+#menubar img {
+	width: 40px;
+}
+
+.dropdown-menu {
+	text-align: right;
+	left: -124px;
+	background-color: #CECECE;
+	opacity: 0.8;
+}
+
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+	background-color: none;
+}
