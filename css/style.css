@@ -37,14 +37,11 @@ h1, h2, h3 {
 
 
 .fleche {
-	color: red;
+	color: white;
 	font-size: 60px;
-	opacity: 0.7;
+	text-shadow: 2px 2px 2px black;
 }
 
-.fleche:hover {
-	opacity: 1;
-}
 
 
 #encre1 {
