@@ -1,0 +1,68 @@
+#myModal {
+	background-color: black;
+	opacity: 0.9;
+}
+
+.modal-content {
+	background-color: black;
+	text-align: center;
+}	
+
+
+
+
+
+.modal-header {
+	margin-bottom: 5em;
+}
+
+.close {
+	color: white;
+	opacity: 0.8;
+	text-shadow: none;
+	font-weight: 300;
+	font-size: 44px;
+	line-height: 0;
+}
+
+.close:hover {
+	opacity: 1;
+	color: white;
+}
+
+.modal-title {
+	margin-bottom: 2em;
+}
+
+
+
+
+
+
+
+.modal-body {
+	margin-bottom: 5em;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+#myModal ul a {
+	font-family: "Quicksand", sans-serif;
+	font-size: 50px;
+	text-decoration: none;
+	color: white;
+	opacity: 0.8;
+}
+
+#myModal ul a:hover {
+	color: white;
+	text-decoration: none;
+	opacity: 1;
+}
+
+#myModal li {
+	margin-bottom: 30px;
+}
